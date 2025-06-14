@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- 自定义FloatingActionButton的样式 -->
+    <style name="MyFabStyle" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">@color/pinkTitle</item> <!-- 设置背景颜色 -->
+        <item name="tint">@color/white</item> <!-- 设置图标颜色 -->
+
+    </style>
+</resources>

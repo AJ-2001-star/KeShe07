@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+    <item
+        android:id="@+id/nav_treehole"
+        android:icon="@drawable/icon_treehole_unselected"
+        android:title="树洞" />
+    <item
+        android:id="@+id/nav_post"
+        android:icon="@drawable/icon_post_unselected"
+        android:title="驿站" />
+    <item
+        android:id="@+id/nav_test"
+        android:icon="@drawable/icon_test_unselected"
+        android:title="测评" />
+    <item
+        android:id="@+id/nav_mine"
+        android:icon="@drawable/icon_mine_unselected"
+        android:title="我的" />
+</menu>
